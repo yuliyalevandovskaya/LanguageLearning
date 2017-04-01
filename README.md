@@ -4,7 +4,6 @@
 -	Delete words (each word has a counter which increases by 25% every time the user provides a correct translation, which helps to separate the words the user knows from the rest, without scrolling through the whole list)
 -	Two types of exercises:
  Normal – displays all words from the list in random order.
- 
  Intelligent – allows the user to choose the number and the category of words to practise.
 
  The application was created using the following:
