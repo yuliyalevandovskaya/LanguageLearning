@@ -7,6 +7,6 @@ Normal – displays all words from the list in random order
 Intelligent – allows the user to choose the number and the category of words to practise.
 
 The application was created using the following:
--JAVA – programming language
--Swing – for user interface
--JDBC 
+- JAVA – programming language
+- Swing – for user interface
+- JDBC 
